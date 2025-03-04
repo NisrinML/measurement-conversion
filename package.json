@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage":"https://nisreens-portfolio.netlify.app/",
   "repository": {
-    "url":""
+    "url":"https://github.com/NisrinML/measurement-conversion"
   },
   "scripts": {
     "build": "tsup"
