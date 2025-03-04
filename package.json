@@ -1,0 +1,26 @@
+{
+  "name": "measurement-conversion-functions",
+  "version": "0.0.1",
+  "description": "a package for converting between units of measurement (px, inch, m, cm, mm)",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage":"https://nisreens-portfolio.netlify.app/",
+  "repository": {
+    "url":""
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "measurements",
+    "units"
+  ],
+  "author": "Nisreen",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
